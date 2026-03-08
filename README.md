@@ -45,8 +45,8 @@ I bring hands-on experience in construction inspection, surveying, CAD drafting,
 
 ## 💼 Experience
 
-### 🇨🇦 Survey Assistant (Co-op) — Stantec Consulting Ltd., Edmonton
-`September 2025 – November 2025`
+### 🇨🇦 Survey Assistant — Stantec Consulting Ltd., Edmonton
+`September 2025 – December 2025`
 - Supported municipal infrastructure projects using GNSS/RTK GPS, Total Stations, and Digital Levels
 - Established control points, alignments, and elevations for construction layout
 - Recorded field notes and measurements for design verification and as-built documentation
@@ -93,8 +93,6 @@ Tribhuvan University, Nepal | Completed: April 2018
 ## 🏅 Certifications
 
 - ✅ CSTS 2020 — Construction Safety Training System (including WHMIS)
-- ✅ Confined Space Awareness & Excavations
-- ✅ Mobile Equipment Awareness
 - ✅ Civil Engineer License — Nepal Engineering Council (A Class)
 - ✅ Valid Alberta Driver's License | Willing to relocate
 
@@ -102,7 +100,7 @@ Tribhuvan University, Nepal | Completed: April 2018
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/www.linkedin.com/in/sangambhatta)
 [![Email](https://img.shields.io/badge/Email-sangambhatta06@gmail.com-red?style=flat&logo=gmail)](mailto:sangambhatta06@gmail.com)
 
 ---
