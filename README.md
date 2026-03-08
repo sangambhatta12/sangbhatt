@@ -100,7 +100,7 @@ Tribhuvan University, Nepal | Completed: April 2018
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/www.linkedin.com/in/sangambhatta)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sangambhatta)
 [![Email](https://img.shields.io/badge/Email-sangambhatta06@gmail.com-red?style=flat&logo=gmail)](mailto:sangambhatta06@gmail.com)
 
 ---
