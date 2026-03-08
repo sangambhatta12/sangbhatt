@@ -1,294 +1,110 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> Hi, I'm Sangam Bhatta
+# Hi, I'm Sangam Bhatta 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22C55E&size=30&center=true&vCenter=true&width=600&lines=Civil+Engineer+%7C+Project+Coordinator;Field+Coordinator+%7C+Site+Engineer;Project+Management+Professional;Estimator+%7C+Schedular+%7C+Planner;Water+Supply+Engineer;Sustainable+Development+Advocate" />
-</div>
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhattasangam)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sangambhatta12@gmail.com)
-  [![Phone](https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=phone&logoColor=white)](tel:+14379559450)
-  [![Location](https://img.shields.io/badge/Toronto,_ON_🇨🇦-000000?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Toronto,ON)
-  
-</div>
+📍 Edmonton, Alberta &nbsp;|&nbsp; 📞 437-955-9450 &nbsp;|&nbsp; 📧 sangambhatta06@gmail.com
 
 ---
 
 ## 🏗️ About Me
 
-> *"Building sustainable infrastructure that transforms communities and improves lives"*
+I'm a **Civil Engineering Technologist** with **5+ years of international experience** in infrastructure development — from large-scale water supply systems in Nepal to hydroelectric power generation and municipal surveying in Canada.
 
-I'm a dedicated **Civil Engineer** with 5+ years of international experience in infrastructure development, currently pursuing **Construction Project Management** at Lambton College in Toronto. My career journey has taken me from managing large-scale water supply projects in Nepal to contributing to hydroelectric power generation, and now bringing my expertise to the Canadian construction industry.
+Currently based in **Edmonton, Alberta**, I recently completed a **Postgraduate Diploma in Construction Project Management** at Lambton College and a **Survey Assistant Co-op at Stantec Consulting Ltd.**
 
-### 🌟 What Defines Me
-
-```
-📊 Data-Driven Decision Maker | 🤝 Collaborative Leader | 🎯 Results-Oriented Professional
-🌱 Sustainability Champion | 🛡️ Safety Advocate | 💡 Innovation Enthusiast
-```
-
-### 💼 Professional Snapshot
-
-- **🏆 Track Record:** Successfully delivered projects impacting 60,000+ lives
-- **📈 Project Value:** Managed infrastructure projects worth $10M+ collectively
-- **👥 Leadership:** Directed teams of 30+ professionals in complex construction environments
-- **🎯 Efficiency:** Achieved significant reduction in project timelines through optimized workflows
-- **✅ Safety Excellence:** Maintained zero-incident record across all projects
-- **🌍 Sustainable Impact:** Integrated environmental considerations in all projects
+I bring hands-on experience in construction inspection, surveying, CAD drafting, and technical documentation — and I'm passionate about delivering safe, efficient, and sustainable infrastructure.
 
 ---
 
-## 📊 Professional Impact Dashboard
+## 💼 Professional Snapshot
 
-<div align="center">
-
-| 🏅 **Metric** | 📈 **Achievement** | 🎯 **Impact** |
-|:-------------:|:------------------:|:-------------:|
-| **People Served** | 60,000+ | Clean water access for communities |
-| **Households Connected** | 10,122 | Improved quality of life |
-| **Pipeline Network** | 270+ KM | Extensive distribution coverage |
-| **Storage Capacity** | 2,000+ m³ | Reliable water supply |
-| **Power Infrastructure** | 52.4 MW | Clean energy generation |
-| **Team Leadership** | 30+ members | Skilled workforce development |
-| **Safety Record** | 0 incidents | Exemplary HSE standards |
-| **Cost Optimization** | 15-20% | Efficient resource utilization |
-| **Project Delivery** | 100% on-time | Reliable execution |
-
-</div>
+| 🏅 Highlight | 📈 Detail |
+|---|---|
+| 🇨🇦 Canadian Experience | Survey Assistant Co-op @ Stantec, Edmonton (2025) |
+| 💧 Largest Project | 270 KM water pipeline network serving 10,000+ households |
+| ⚡ Infrastructure Scale | 52.4 MW Likhu IV Hydroelectric Project |
+| 👥 Team Leadership | Managed 30+ member crews in complex construction environments |
+| ✅ Safety Record | Zero incidents across all projects |
+| 🎓 Education | B.Eng Civil + PG Diploma Construction Project Management |
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Technical Skills
 
-### 💻 Software Proficiency
+**Surveying & Layout**
+`GNSS / RTK GPS` `Total Station` `Digital Levels` `Topographic Surveys` `As-Built Surveys` `Construction Layout`
 
-<div align="center">
+**CAD & Software**
+`AutoCAD` `Civil 3D` `Bluebeam Revu` `MS Project` `MS Excel` `SharePoint` `ArcGIS / GIS`
 
-#### Design & Engineering
-![AutoCAD](https://img.shields.io/badge/AutoCAD-EE3124?style=for-the-badge&logo=autodesk&logoColor=white)
-![Civil 3D](https://img.shields.io/badge/Civil_3D-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
-![EPANET](https://img.shields.io/badge/EPANET-4B8BBE?style=for-the-badge&logo=water&logoColor=white)
-![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=arcgis&logoColor=white)
+**Construction & Engineering**
+`Construction Inspection` `QA/QC` `Quantity Take-offs` `BOQ Preparation` `Earned Value Management (EVM)` `CCDC Contracts`
 
-#### Project Management
-![MS Project](https://img.shields.io/badge/MS_Project-217346?style=for-the-badge&logo=microsoft&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel_Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Bluebeam](https://img.shields.io/badge/Bluebeam_Revu-0052CC?style=for-the-badge&logo=adobe&logoColor=white)
-
-</div>
-
-### 🔧 Core Competencies Matrix
-
-<table align="center">
-<tr>
-<td width="50%">
-
-**🎯 Project Management**
-- Work Breakdown Structure (WBS)
-- Cost Breakdown Structure (CBS)
-- Critical Path Method (CPM)
-- Earned Value Management (EVM)
-- Risk Assessment & Mitigation
-- Procurement & Contract Management
-
-</td>
-<td width="50%">
-
-**📐 Technical Design**
-- Hydraulic Network Analysis
-- Structural Design & Detailing
-- Geotechnical Investigation
-- Quantity Surveying & BOQ
-- As-Built Documentation
-- Quality Control & Assurance
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**👥 Leadership & Communication**
-- Stakeholder Management
-- Team Coordination
-- Conflict Resolution
-- Report Writing & Documentation
-- Client Presentations
-- Cross-Cultural Collaboration
-
-</td>
-<td width="50%">
-
-**🌱 Sustainability & Compliance**
-- Environmental Impact Assessment
-- Safety Management Systems
-- Regulatory Compliance
-- Sustainable Design Practices
-- Community Engagement
-- Social Impact Evaluation
-
-</td>
-</tr>
-</table>
+**Documentation**
+`Inspection Reports` `Daily Logs` `As-Built Drawings` `Technical Specifications` `Tender Documents`
 
 ---
 
-## 🎓 Education & Professional Development
+## 💼 Experience
 
-### 📚 Academic Credentials
-
-<details>
-<summary><b>🏗️ Construction Project Management (Current)</b></summary>
-
-**Institution:** Lambton College, North York, ON  
-**Duration:** May 2024 – December 2025 (Excepted) 
-**Status:** Currently Pursuing
-
-#### 📖 Comprehensive Coursework:
-- **Technical:** Construction Methods & Materials, Advanced Blueprint Reading, Structural Systems
-- **Management:** Project Management, Risk & Procurement Management, Resource & Schedule Management
-- **Financial:** Construction Economics, Cost Control, Financial Analysis
-- **Legal:** Construction Contracts & Laws, Building Codes & Regulations
-- **Safety:** Construction Safety Management, Jobsite Management
-- **Communication:** Professional Communications, Stakeholder Management
-
-</details>
-
-<details>
-<summary><b>🎓 Bachelor of Civil Engineering</b></summary>
-
-**Institution:** Tribhuvan University, Nepal  
-**Graduation:** 2018  
-**Focus:** Structural Engineering & Construction Management
-
-#### 📖 Key Subjects:
-- Reinforced Cement Concrete (RCC) Design
-- Steel Structure Design & Analysis
-- Seismic Analysis & Applied Dynamics
-- Construction Management & Planning
-- Geotechnical Engineering
-- Estimation & Costing
-- Surveying & Transportation Engineering
-
-</details>
-
-### 🏅 Certifications & Licenses
-
-| Certification | Issuing Authority | Year | Status |
-|:-------------|:-----------------|:-----|:-------|
-| **Civil Engineer License (A Class)** | Nepal Engineering Council | 2018 | Active |
-| **Ontario Driver's License** | Ontario Ministry of Transportation | 2024 | Valid |
+### 🇨🇦 Survey Assistant (Co-op) — Stantec Consulting Ltd., Edmonton
+`September 2025 – November 2025`
+- Supported municipal infrastructure projects using GNSS/RTK GPS, Total Stations, and Digital Levels
+- Established control points, alignments, and elevations for construction layout
+- Recorded field notes and measurements for design verification and as-built documentation
+- Coordinated with engineers, inspectors, and field crews to resolve discrepancies
 
 ---
 
-## 💼 Professional Journey
-
-### 🗓️ Career Timeline
-
-```mermaid
-timeline
-    title Professional Experience Timeline
-    
-    2018-05 : Site Engineer
-            : South Asian Infrastructure
-            : Likhu-IV Hydroelectric (52.4 MW)
-    
-    2019-06 : Water Supply Engineer
-            : Sitara Consult Pvt Ltd
-            : 10,000+ households served
-    
-    2023-05 : Civil Engineer
-            : Fine Home Interior & Construction
-            : Construction of residential & commercial projects
-    
-    2024-05 : Career Transition to Canada
-            : Encore Catering
-            : Adapting to Canadian Culture
-    
-    2026    : Future Goal
-            : Construction Project Manager
-            : Leading infrastructure projects in Canada
-```
-
-```markdown
-# 💼 Professional Experience
-
-## 🇨🇦 Cleaner | Encore Catering, Toronto, ON
-`May 2024 - December 2024`
-
-- 🎯 **Adaptability & Reliability**: Demonstrated exceptional adaptability, punctuality, and reliability in a dynamic catering environment
-- 🤝 **Team Collaboration**: Supported colleagues with daily targets under tight deadlines using effective problem-solving
-- ✅ **Professional Standards**: Upheld Canadian professional standards while transitioning to the Canadian work environment
-
----
-
-## 🏗️ Civil Engineer | Fine Home Interior & Construction, Nepal
+### 🏗️ Civil Engineering Technologist — Fine Home Interior & Construction, Nepal
 `May 2023 – April 2024`
-
-### 📐 Technical Design & Documentation
-- Executed precise structural and as-built drawings using **AutoCAD**
-- Enhanced field coordination through robust technical documentation
-
-### 💰 Cost Management
-- Conducted comprehensive quantity takeoffs and cost estimates
-- Successfully aligned budgets with project scopes
-
-### 👷 Site Management
-- Coordinated sub-trade activities and performed meticulous site inspections
-- Achieved **20% reduction in workplace incidents**
-
-### 📊 Project Controls
-- Facilitated project schedule updates using **MS Project**
-- Achieved notable reduction in project timeline through optimization
+- Conducted topographic and boundary surveys for residential and commercial projects
+- Prepared base plans, layout drawings, and as-built records using AutoCAD and Civil 3D
+- Coordinated with engineers, contractors, and subcontractors to resolve site issues
 
 ---
 
-## 💧 Water Supply - Civil Engineer | Sitara Consult Pvt Ltd, Nepal
-`June 2019 – April 2023`
-
-### 🎯 Impact Summary
-
-📊 10,000+ households served | 🚰 270 KM pipeline network | 👥 Multi-disciplinary team coordination
-
-
-### Key Achievements:
-- Project Leadership: Spearheaded engineering design for co-financed water supply projects
-- Technical Excellence: Produced comprehensive construction drawings, BOQs, and specifications
-- Project Management: Developed WBS/CBS for seamless planning and resource allocation
-- Procurement: Prepared RFIs, RFQs, and RFPs to streamline vendor selection
-- Field Operations**: Executed site inspections and topographic surveys using a total station
-- Technology Integration**: Leveraged GIS software for site mapping and geotechnical analysis
+### 💧 Water Supply Engineer — Sitara Consult Pvt. Ltd., Nepal
+`July 2019 – April 2023`
+- Supported municipal water distribution and wastewater collection infrastructure projects
+- Prepared construction drawings, BOQs, technical specifications, and tender documents
+- Coordinated with municipal authorities, GIS teams, and stakeholders through project delivery
 
 ---
 
-## ⚡ Site Engineer | South Asian Infrastructure Pvt Ltd, Nepal
+### ⚡ Site Engineer — Likhu IV Hydroelectric Project (52.4 MW)
 `May 2018 – June 2019`
-
-### Project: Likhu-IV Hydroelectric Project (52.4 MW)
-
-```mermaid
-graph LR
-    A[30-Member Crew] --> B[Underground Excavation]
-    B --> C[Rock Support]
-    C --> D[Slope Stabilization]
-    D --> E[Zero Incidents]
-
-### Responsibilities:
-- **Team Leadership**: Managed a 30-member crew per shift for tunnel construction
-- **Technical Work**: Created Bar Bending Schedules (BBS) using AutoCAD and Excel
-- **Project Controls**: Monitored schedules using MS Project and tracked milestones
-- **Cost Management**: Executed quantity take-offs and progress billing
-- **Safety Excellence**: Maintained **zero-incident safety record**
-- **🏆 Achievement**: Achieved early delivery of HRT construction milestone
+- Managed 30-member crew for tunnel construction and underground excavation
+- Conducted QA/QC inspections for rebar, concrete works, and tunnel support systems
+- Maintained zero-incident safety record throughout project
 
 ---
 
-## 🤝 Volunteer Experience
+## 🎓 Education
 
-### Paragon Engineering Consultancy | `November 2017`
-- 🏗️ Organized logistics for Earthquake-Resistant Construction training
-- 📚 Contributed to community resilience building
+🏗️ **Postgraduate Diploma — Construction Project Management**
+Lambton College, Toronto | Completed: December 2025
 
-### Picasso Consultant Pvt Ltd | `February 2017`
-- 🚦 Executed traffic survey for Municipal Transport Master Plan
-- 📊 Supported urban planning through data collection
+> Capstone: Four-Plex Wood-Frame Residential Building — full drawing package, quantity take-offs, MS Project schedule, EVM tracking, CCDC contract review
+
+🎓 **Bachelor of Engineering — Civil Engineering**
+Tribhuvan University, Nepal | Completed: April 2018
+
+---
+
+## 🏅 Certifications
+
+- ✅ CSTS 2020 — Construction Safety Training System (including WHMIS)
+- ✅ Confined Space Awareness & Excavations
+- ✅ Mobile Equipment Awareness
+- ✅ Civil Engineer License — Nepal Engineering Council (A Class)
+- ✅ Valid Alberta Driver's License | Willing to relocate
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
+[![Email](https://img.shields.io/badge/Email-sangambhatta06@gmail.com-red?style=flat&logo=gmail)](mailto:sangambhatta06@gmail.com)
+
+---
+
+*Open to full-time opportunities in civil engineering technologist, survey technician, and construction inspection roles across Alberta.*
